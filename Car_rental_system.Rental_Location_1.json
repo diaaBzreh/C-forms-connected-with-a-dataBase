@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6632aa623907f9c81b62cec7"
+  },
+  "Name": "GoDrive 1",
+  "location": "Istanbul Airport",
+  "phone_Number": "0597836589"
+},
+{
+  "_id": {
+    "$oid": "6632aa623907f9c81b62cec8"
+  },
+  "Name": "GoDrive 2",
+  "location": "Sabiha Airport",
+  "phone_Number": "0583654718"
+},
+{
+  "_id": {
+    "$oid": "6632aa623907f9c81b62cec9"
+  },
+  "Name": "GoDrive 3",
+  "location": "Izmir Airport",
+  "phone_Number": "0571756381"
+},
+{
+  "_id": {
+    "$oid": "6632aa623907f9c81b62ceca"
+  },
+  "Name": "GoDrive 4",
+  "location": "Ankara Airport",
+  "phone_Number": "0573856385"
+},
+{
+  "_id": {
+    "$oid": "6632aa623907f9c81b62cecb"
+  },
+  "Name": "GoDrive 5",
+  "location": "Antalya Airport",
+  "phone_Number": "0574653714"
+},
+{
+  "_id": {
+    "$oid": "6632aa623907f9c81b62cecc"
+  },
+  "Name": "GoDrive 6",
+  "location": "Trabzon Airport",
+  "phone_Number": "0587673564"
+}]

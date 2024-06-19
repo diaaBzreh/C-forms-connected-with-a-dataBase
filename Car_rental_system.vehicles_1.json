@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa809b"
+  },
+  "type": "Normal Day Car",
+  "name_model": "Toyota Camry",
+  "year": "2021",
+  "price": "1500",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa809c"
+  },
+  "type": "Normal Day Car",
+  "name_model": "Renault",
+  "year": "2020",
+  "price": "1100",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa809d"
+  },
+  "type": "Normal Day Car",
+  "name_model": "Elantra",
+  "year": "2019",
+  "price": "1200",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa809e"
+  },
+  "type": "Normal Day Car",
+  "name_model": "Honda Civic",
+  "year": "2021",
+  "price": "1000",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa809f"
+  },
+  "type": "Normal Day Car",
+  "name_model": "Skoda Octavia",
+  "year": "2020",
+  "price": "1500",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a0"
+  },
+  "type": "Luxury Car",
+  "name_model": "Mercedes S-Class",
+  "year": "2022",
+  "price": "4500",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a1"
+  },
+  "type": "Luxury Car",
+  "name_model": "Audi A8",
+  "year": "2021",
+  "price": "4000",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a2"
+  },
+  "type": "Luxury Car",
+  "name_model": "Bentley Continental",
+  "year": "2020",
+  "price": "4500",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a3"
+  },
+  "type": "Luxury Car",
+  "name_model": "BMW 7-Series",
+  "year": "2022",
+  "price": "4500",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a4"
+  },
+  "type": "Luxury Car",
+  "name_model": "Rolls-Royce Ghost",
+  "year": "2021",
+  "price": "5000",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a5"
+  },
+  "type": "SUV",
+  "name_model": "Range Rover",
+  "year": "2021",
+  "price": "3500",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a6"
+  },
+  "type": "SUV",
+  "name_model": "Porsche Cayenne",
+  "year": "2020",
+  "price": "3000",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a7"
+  },
+  "type": "SUV",
+  "name_model": "Audi Q8",
+  "year": "2019",
+  "price": "2500",
+  "rented": "false"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a8"
+  },
+  "type": "SUV",
+  "name_model": "Toyota Land Cruiser",
+  "year": "2021",
+  "price": "2500",
+  "rented": "true"
+},
+{
+  "_id": {
+    "$oid": "66314c24da1909fa53aa80a9"
+  },
+  "type": "SUV",
+  "name_model": "Cadillac Escalade",
+  "year": "2020",
+  "price": "3000",
+  "rented": "false"
+}]

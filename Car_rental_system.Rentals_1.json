@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e7d"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa8046"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa809b"
+  },
+  "Employee_id": {
+    "$oid": "663124b7931c4bed9db1dbee"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cec7"
+  },
+  "Rental_Duration": 1,
+  "rental_date": {
+    "$date": "2024-04-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e7e"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa8048"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa809c"
+  },
+  "Employee_id": {
+    "$oid": "663124b7931c4bed9db1dbef"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cec9"
+  },
+  "Rental_Duration": 2,
+  "rental_date": {
+    "$date": "2024-06-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e7f"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa8049"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa809d"
+  },
+  "Employee_id": {
+    "$oid": "663124b7931c4bed9db1dbf0"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cec7"
+  },
+  "Rental_Duration": 7,
+  "rental_date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e80"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa804b"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa809e"
+  },
+  "Employee_id": {
+    "$oid": "663124b7931c4bed9db1dbf1"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cec8"
+  },
+  "Rental_Duration": 10,
+  "rental_date": {
+    "$date": "2024-06-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e81"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa804c"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa809f"
+  },
+  "Employee_id": {
+    "$oid": "663124b7931c4bed9db1dbf2"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62ceca"
+  },
+  "Rental_Duration": 15,
+  "rental_date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e82"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa804d"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa80a0"
+  },
+  "Employee_id": {
+    "$oid": "663125d73f1337e9337eede0"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cecb"
+  },
+  "Rental_Duration": 20,
+  "rental_date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e83"
+  },
+  "Costomer_id": {
+    "$oid": "663129a7da1909fa53aa804e"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa80a1"
+  },
+  "Employee_id": {
+    "$oid": "66313fa6c52e3452815463f7"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cecb"
+  },
+  "Rental_Duration": 30,
+  "rental_date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e84"
+  },
+  "Costomer_id": {
+    "$oid": "6632a59fd146356ae0b6f140"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa80a2"
+  },
+  "Employee_id": {
+    "$oid": "6632a3e4d146356ae0b6f139"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cec9"
+  },
+  "Rental_Duration": 35,
+  "rental_date": {
+    "$date": "2024-06-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6632c9504f68697a33dc4e85"
+  },
+  "Costomer_id": {
+    "$oid": "6632a648d146356ae0b6f145"
+  },
+  "Vehicle_id": {
+    "$oid": "66314c24da1909fa53aa80a3"
+  },
+  "Employee_id": {
+    "$oid": "6632a41ad146356ae0b6f13a"
+  },
+  "location_id": {
+    "$oid": "6632aa623907f9c81b62cecb"
+  },
+  "Rental_Duration": 25,
+  "rental_date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  }
+}]
